@@ -50,6 +50,9 @@ gem 'devise', '~> 4.2'
 # https://rubygems.org/gems/i18n
 gem 'i18n'
 
+# https://rubygems.org/tty-spinner
+gem 'tty-spinner'
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
